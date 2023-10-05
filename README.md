@@ -22,4 +22,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkesarwani1501&show_icons=true&locale=en&layout=compact" alt="harshkesarwani1501" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshkesarwani1501&show_icons=true&locale=en" alt="harshkesarwani1501" /></p>
-[![An image of @harshkesarwani1501's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshkesarwani1501)](https://holopin.io/@harshkesarwani1501)
